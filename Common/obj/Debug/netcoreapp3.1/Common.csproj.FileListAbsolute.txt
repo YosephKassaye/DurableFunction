@@ -1,0 +1,9 @@
+C:\YK\Practice\Azure\AZFunction\DurableFunction\Onboard-Request-DFunc\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\YK\Practice\Azure\AZFunction\DurableFunction\Onboard-Request-DFunc\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\YK\Practice\Azure\AZFunction\DurableFunction\Onboard-Request-DFunc\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\YK\Practice\Azure\AZFunction\DurableFunction\Onboard-Request-DFunc\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\YK\Practice\Azure\AZFunction\DurableFunction\Onboard-Request-DFunc\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\YK\Practice\Azure\AZFunction\DurableFunction\Onboard-Request-DFunc\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\YK\Practice\Azure\AZFunction\DurableFunction\Onboard-Request-DFunc\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\YK\Practice\Azure\AZFunction\DurableFunction\Onboard-Request-DFunc\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\YK\Practice\Azure\AZFunction\DurableFunction\Onboard-Request-DFunc\Common\obj\Debug\netcoreapp3.1\Common.pdb
